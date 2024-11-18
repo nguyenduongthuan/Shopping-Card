@@ -50,4 +50,4 @@ Shopping-Card/
 ```
 
 License
-This project is licensed under the <a href="https://app.codesignal.com/profile/nguyenduongt" target="_blank">MIT License</a>.
+This project is licensed under the <a href="https://github.com/nguyenduongthuan/Shopping-Card/blob/main/LICENSE" target="_blank">MIT License</a>.
