@@ -23,6 +23,8 @@ npm install
 ```
 ## Usage
 
+
+```bash
 # Start the development server
 npm run dev
 
@@ -31,4 +33,21 @@ npm run build
 
 # Run production server
 npm start
+```
 
+## Project Structure
+```bash
+Shopping-Card/
+├── src/                  # Source code
+├── uploads/video/        # Directory for uploaded videos
+├── .editorconfig         # Editor configuration
+├── .eslintrc             # ESLint configuration
+├── .prettierrc           # Prettier configuration
+├── package.json          # Project metadata and dependencies
+├── tsconfig.json         # TypeScript configuration
+└── nodemon.json          # Nodemon configuration
+
+```
+
+License
+This project is licensed under the MIT License.
