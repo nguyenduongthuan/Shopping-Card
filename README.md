@@ -52,4 +52,4 @@ Shopping-Card/
 ## License
 This project is licensed under the <a href="https://github.com/nguyenduongthuan/Shopping-Card/blob/main/LICENSE" target="_blank">MIT License</a>.
 
-# Create under the teaching of <a href="[https://github.com/nguyenduongthuan/Shopping-Card/blob/main/LICENSE](https://www.facebook.com/nomadic.lodestar)" target="_blank">Lê Điệp</a>.
+# Create under the teaching of <a> href="[https://github.com/nguyenduongthuan/Shopping-Card/blob/main/LICENSE](https://www.facebook.com/nomadic.lodestar)" target="_blank">Lê Điệp</a>.
