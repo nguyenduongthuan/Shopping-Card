@@ -1,13 +1,26 @@
 # Shopping-Card
 
-A modern, scalable shopping cart solution built with TypeScript, designed for simplicity and performance.
+Designed and implemented the backend infrastructure for a comprehensive shopping cart application. The project includes a secure and efficient API system that handles user authentication, file uploads, and database management. Built with scalability in mind, it leverages modern tools and frameworks to ensure optimal performance and maintainability.
 
 ## Features
 
-- TypeScript-based: Reliable and maintainable code with strong typing.
-- Pre-configured Tools: Includes ESLint, Prettier, and EditorConfig for clean and consistent development.
-- Video Upload Support: Ready to handle video files in the `uploads/video` directory.
-- Hot-Reloading: Integrated with `nodemon` for efficient development.
+- RESTful API design for seamless client-server communication
+- User authentication and session management using JWT
+- Advanced file handling and image processing with Sharp and Formidable
+- Modular architecture for scalability and ease of maintenance
+- Robust error handling and validation mechanisms
+
+## Technologies Used:
+
+- Programming Language: TypeScript
+- Framework: Express.js
+- Database: MongoDB
+- Authentication: JSON Web Tokens (JWT)
+- File Handling: Sharp, Formidable
+- Developer Tools: Nodemon, TS-Node, ESLint, Prettier, and Rimraf
+- Build System: TypeScript Compiler with alias path resolution
+- Validation Framework: Express Validator
+- Environment Management: Dotenv
 
 ## Installation
 
